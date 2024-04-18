@@ -23,7 +23,7 @@ To use this notebook:
 
 ## Requirements
 
-- Python 3.x
+- Python 3.11 (This is the Version that I used)
 - Jupyter Notebook
 - Google CodeGemma LLM Model (Note: The model may require additional setup or installation steps, please refer to the official documentation for details.)
 
